@@ -1,2 +1,2 @@
 # desktop-virtual-assistant
-An python based project creating a desktop virtual assistant inspired with jarvis 
+This project is inspired by jarvis an virtual desktop assistant which can do the allocated tasks. By using python programming language with simple and easily understandable code.
